@@ -1,4 +1,4 @@
-## Hi there 👋
+## Repositorio con fines educativos
 
 <!--
 **qpula/qpula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
