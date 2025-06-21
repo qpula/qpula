@@ -1,4 +1,4 @@
-## Repositorio creado con fines artisticos para promover el resultado de las ideas de la qpula un grupo de artistas argentinos
+## Repositorio creado  para promover el resultado de las ideas de la qpula un grupo de artistas argentinos
 
 <!--
 **qpula/qpula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
